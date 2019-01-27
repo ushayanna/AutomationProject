@@ -4,7 +4,7 @@ package DataDrivenProject.UshaTestAutomation;
  * Hello world!
  *
  */
-public class App 
+public class BaseClass 
 {
     public static void main( String[] args )
     {
